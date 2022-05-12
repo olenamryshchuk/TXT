@@ -1,0 +1,5 @@
+film: How to lose a guy in 10 days,
+serial: Friends,
+food: sandwich,
+season: spring,
+country: Great Britan
